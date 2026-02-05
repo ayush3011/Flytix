@@ -1,0 +1,19 @@
+.navbar-logo {
+    height: 40px;
+    margin-right: 10px;
+    border-radius: 5px;
+}
+
+.page-heading {
+    display: inline;
+}
+
+
+.nav-item {
+    display: flex;
+    align-items: center;
+}
+
+.add-button {
+    margin-left: auto;
+}
